@@ -1,1 +1,2 @@
-# DevOps Bootcamp Drupal - Ka-POW!
+# DevOps Bootcamp Drupal
+# Newline
