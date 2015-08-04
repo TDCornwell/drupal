@@ -120,7 +120,7 @@
  *   'database' => 'databasename',
  *   'username' => 'username',
  *   'password' => 'password',
- *   'host' => 'dr1gqs0ke7zo0qy.ceejgrsbjbw0.us-east-1.rds.amazonaws.com',
+ *   'host' => 'localhost',
  *   'prefix' => 'main_',
  *   'collation' => 'utf8_general_ci',
  * );
@@ -220,7 +220,7 @@ $databases = array (
       'database' => 'drupal',
       'username' => 'drupal',
       'password' => 'Bootcamp372948',
-      'host' => 'localhost',
+      'host' => 'dr1gqs0ke7zo0qy.ceejgrsbjbw0.us-east-1.rds.amazonaws.com',
       'port' => '',
       'driver' => 'mysql',
       'prefix' => '',
