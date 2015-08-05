@@ -4,6 +4,7 @@ files:
   - source: content/
     destination: /var/www/html/
 #
+#
 # The hooks section of the AppSpec file contains mappings that link
 # deployment lifecycle event hooks to one or more scripts.
 #
